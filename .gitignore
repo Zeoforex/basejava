@@ -3,6 +3,6 @@ out
 *.iml
 log
 lesson
-README.md
+*.md
 
 
